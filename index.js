@@ -1,7 +1,7 @@
 //Archivo Index Principal
 
 function GetMsg() {
-    return "Hola, Itla!";
+    return "Hola, Mundo!";
 }
 
 module.exports = GetMsg;
